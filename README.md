@@ -1,6 +1,6 @@
 ### Hi there, I'm Adityan - aka [add_the_tea_yen][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/add_the_tea_yen)
+[![Twitter Follow](https://img.shields.io/badge/Follow-%40add__the__tea__yen-blue)](https://twitter.com/add_the_tea_yen)
 
 ## I'm a Boyfirend Nerd Geek Jerk And a loveble person :)
 
