@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Adityan Spotify Playing" width="350" />](https://open.spotify.com/user/31unb43cgbas6aqbhrew4tx5igyu)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31unb43cgbas6aqbhrew4tx5igyu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
