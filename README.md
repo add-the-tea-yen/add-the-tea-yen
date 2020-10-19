@@ -1,4 +1,4 @@
-### Hi there, I'm Adityan - aka [add_the_tea_yen][website] 👋
+### Hi there, I'm Adityan - aka add_the_tea_yen 👋
 
 [![Twitter Follow](https://img.shields.io/badge/Follow-%40add__the__tea__yen-blue)](https://twitter.com/add_the_tea_yen)
 
