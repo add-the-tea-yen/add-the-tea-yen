@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/badge/Follow-%40add__the__tea__yen-blue)](https://twitter.com/add_the_tea_yen)
 
-## I'm a Boyfirend Nerd Geek Jerk And a loveble person :)
+## I'm a Boyfirend, Nerd, Geek, Jerk and a loveble person :)
 
 - 🔭 I just launched my first book, A walk in the Park now avaible on Amazon 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to do Physics and write poetry
 
 ### Spotify Playing 🎧
 
