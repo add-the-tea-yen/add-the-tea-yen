@@ -14,7 +14,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31unb43cgbas6aqbhrew4tx5igyu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-### FireShip IO Sticker Cus Why not:
+### Fireship IO Sticker:
 ![Fireship Sticker](https://firebasestorage.googleapis.com/v0/b/fireship-app.appspot.com/o/assets%2Fsticker-holo.png?alt=media&token=b41ebeaf-d5e9-4823-a294-5b11e63d7284)
 
 ### Connect with me:
