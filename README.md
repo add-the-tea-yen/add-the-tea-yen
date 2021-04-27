@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/badge/Follow-%40add__the__tea__yen-blue)](https://twitter.com/add_the_tea_yen)
 
-## I'm a Boyfirend, Nerd, Geek, Jerk and a loveble person :)
+## I write code sometimes
 
 - 🔭 I just launched my first book, A walk in the Park now avaible on Amazon 
 - 🌱 I’m currently learning everything 🤣
