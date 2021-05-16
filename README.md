@@ -1,7 +1,7 @@
 ### Hi there, I'm Adityan - aka Tadashi Kenko
 
 
-##I code a bit, you can find all most all of my unactive projects here
+###I code a bit, you can find all most all of my unactive projects here
 
 - I just launched my first book, A walk in the Park now avaible on Amazon 
 - I’m currently learning nothing and everything
