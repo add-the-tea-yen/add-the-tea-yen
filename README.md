@@ -1,4 +1,4 @@
-### Hi there, I'm Adityan - aka Tadashi Kenko
+### Hi there, I'm Adityan - aka Akimoto Akira
 
 
 I code a bit, you can find all most all of my unactive projects here
