@@ -1,8 +1,14 @@
 ### Hi there, I'm Adityan
 
 I code a bit, you can find all most all of my unactive projects here
+<a href="https://github.com/add-the-tea-yen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=add-the-tea-yen&theme=gotham&count_private=true&hide_border=true&line_height=24&show_icons=true" />
+</a>
+<a href="https://github.com/add-the-tea-yen?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=add-the-tea-yen&layout=compact&theme=gotham&langs_count=8&hide_border=true" />
+</a>
 '''
-**   **
+
                                **************  *****
                             **$$$$  ****   $$*******
                           * $$$$$$$$$   $$* **   *$**
@@ -48,39 +54,39 @@ I code a bit, you can find all most all of my unactive projects here
     ##+ +      #### #####++++                          ++++##    ###++
     ##++      ###########++                          ++++++#      ## +
     ###+      ##########+++                             #++#        ##
-    #+  +    +########++                         ++##########     
-   ###+        # ###+++++                         +++++#####      
-  ###+  +      #  ##+++                          +++++#######     
-  ##++##+     ##   ##++  ##                       ###########     
-   ##+##+     ###  ######              #####     ###++++#####
-   ##  ##     ##      ##  ######  ++              #+  ######
-   ##+#       ##      ##  ######+++++             ++ #######
-  ### #+    ###       ##  ########                  ## ####
-  ######+    ##       ##++    ##+                  ## ## ##
- +###  ####+##       ##                            +     #+
- ##++ +  ######      ##                                  ##
- +##       ++ #     +#                 @@@                #
- +#         + #    ##                                    ##
- ## +       # #    #                                      #+
- ##+        # #    # +                                    #+
- ##+        # #    ## ###                                ###
- ##+  +     ###    ##    ####                            +##
- #++     #  ##+   +#  ########                          ####
-##++        ##    ## ++   ####                         #####
- ##++       ++    #         +##         ##            ######
-+# +        +#   +#           +#+      #####         ######+
- # +       +#    #           +#+   ############           +##
- # +      ##    +#           +###+  ######### +###++      +#
-  ##++  + #     #     #             ###   #  #######++     #
-  ##++  + #     ##             +### #+#  #+####        #
-  ##+    +##    ##     ##         +###++#   #++####        #
-  # + +  +#     #                 +#+++# #+++###+         #
-   #      #     # +++++           +#+++# #+++###++        ##
-  +#      #     #    #####+        +#+++# #+++####++        #
-  # ##    ###   ###++           ++##+++# #+++####          #
-  ########  ##  ###              ###++## ##++##             #
+    #+  +    +########++                         ++##########
+    ###+        # ###+++++                         +++++#####      
+    ###+  +      #  ##+++                          +++++#######     
+    ##++##+     ##   ##++  ##                       ###########     
+    ##+##+     ###  ######              #####     ###++++#####
+    ##  ##     ##      ##  ######  ++              #+  ######
+    ##+#       ##      ##  ######+++++             ++ #######
+    ### #+    ###       ##  ########                  ## ####
+    ######+    ##       ##++    ##+                  ## ## ##
+    +###  ####+##       ##                            +     #+
+    ##++ +  ######      ##                                  ##
+    +##       ++ #     +#                 @@@                #
+    +#         + #    ##                                    ##
+    ## +       # #    #                                      #+
+    ##+        # #    # +                                    #+
+    ##+        # #    ## ###                                ###
+    ##+  +     ###    ##    ####                            +##
+    #++     #  ##+   +#  ########                          ####
+    ##++        ##    ## ++   ####                         #####
+    ##++       ++    #         +##         ##            ######
+    +# +        +#   +#           +#+      #####         ######+
+    # +       +#    #           +#+   ############           +##
+    # +      ##    +#           +###+  ######### +###++      +#
+    ##++  + #     #     #             ###   #  #######++     #
+    ##++  + #     ##             +### #+#  #+####        #
+    ##+    +##    ##     ##         +###++#   #++####        #
+    # + +  +#     #                 +#+++# #+++###+         #
+    #      #     # +++++           +#+++# #+++###++        ##
+    +#      #     #    #####+        +#+++# #+++####++        #
+    # ##    ###   ###++           ++##+++# #+++####          #
+    ########  ##  ###              ###++## ##++##             #
     ### ##     ## ##                ###########               #
-   ##+ ###      #####              #########                 #
+    ##+ ###      #####              #########                 #
     ##### ###     ##+               ## ## ###                 +
     ########## #  ##++             +++###++++                 +
     ########## #  #++              ++##### ++++                ++
@@ -140,19 +146,8 @@ I code a bit, you can find all most all of my unactive projects here
                                #+ # # # +#    #
                                 ##+ #  # #   ##
                                  #+##+#  ####+
-'''
-
-
-
 
 '''
-<a href="https://github.com/add-the-tea-yen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=add-the-tea-yen&theme=gotham&count_private=true&hide_border=true&line_height=24&show_icons=true" />
-</a>
-<a href="https://github.com/add-the-tea-yen?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=add-the-tea-yen&layout=compact&theme=gotham&langs_count=8&hide_border=true" />
-</a>
-
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
