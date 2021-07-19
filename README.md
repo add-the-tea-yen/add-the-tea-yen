@@ -1,13 +1,12 @@
 ### Hi there, I'm Adityan
 
-I code a bit, you can find all most all of my unactive projects here
+I code a bit, you can find all most all of my unactive projects here</br>
 <a href="https://github.com/add-the-tea-yen">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=add-the-tea-yen&theme=gotham&count_private=true&hide_border=true&line_height=24&show_icons=true" />
 </a>
 <a href="https://github.com/add-the-tea-yen?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=add-the-tea-yen&layout=compact&theme=gotham&langs_count=8&hide_border=true" />
 </a>
-'''
 
                                **************  *****
                             **$$$$  ****   $$*******
@@ -147,10 +146,17 @@ I code a bit, you can find all most all of my unactive projects here
                                 ##+ #  # #   ##
                                  #+##+#  ####+
 
-'''
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="addtheteayen | Website" width="22px" src="https://image.flaticon.com/icons/png/512/975/975645.png" />][website]
 
-<br />
+[website]: https://www.adityan.cf/
+
+[<img align="left" alt="addtheteayen | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/adityan-n-44789a1b9/
+
+
+[<img align="left" alt="addtheteayen | Mail" width="22px" src="https://image.flaticon.com/icons/png/512/893/893257.png" />][mail]
+</br>
+
+[mail]: mailto:adityan041414@gmail.com
